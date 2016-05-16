@@ -28,9 +28,9 @@
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="index.php">About</a></li>
+          <li><a href="index.php">About</a></li>
           <li><a href="services.php">Services</a></li>
-          <li><a href="blog.php">Blog</a></li>
+          <li class="active"><a href="blog.php">Blog</a></li>
           <li><a href="https://www.b-v.co.uk/contact">Contact</a></li>
         </ul>
       </div>
